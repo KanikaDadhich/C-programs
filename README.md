@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KanikaDadhich/C-programs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
@@ -65,6 +67,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
