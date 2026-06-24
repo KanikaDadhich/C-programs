@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/KanikaDadhich/C-programs/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KanikaDadhich/C-programs/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Enumeration
 |  |
