@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -56,4 +58,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
