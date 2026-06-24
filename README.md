@@ -81,4 +81,16 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KanikaDadhich/C-programs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
