@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KanikaDadhich/C-programs/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KanikaDadhich/C-programs/tree/master/2443-sum-of-number-and-its-reverse) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
