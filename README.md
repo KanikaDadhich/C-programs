@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KanikaDadhich/C-programs/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KanikaDadhich/C-programs/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -107,4 +109,20 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KanikaDadhich/C-programs/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KanikaDadhich/C-programs/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KanikaDadhich/C-programs/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KanikaDadhich/C-programs/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
