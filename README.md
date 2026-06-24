@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/KanikaDadhich/C-programs/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KanikaDadhich/C-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
+| [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KanikaDadhich/C-programs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
