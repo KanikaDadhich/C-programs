@@ -84,6 +84,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
+| [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
