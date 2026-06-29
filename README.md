@@ -19,6 +19,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KanikaDadhich/C-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KanikaDadhich/C-programs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KanikaDadhich/C-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0455-assign-cookies](https://github.com/KanikaDadhich/C-programs/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KanikaDadhich/C-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
