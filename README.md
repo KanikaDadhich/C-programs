@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KanikaDadhich/C-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/KanikaDadhich/C-programs/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/KanikaDadhich/C-programs/tree/master/0506-relative-ranks) |
@@ -69,6 +70,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KanikaDadhich/C-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KanikaDadhich/C-programs/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KanikaDadhich/C-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/KanikaDadhich/C-programs/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
