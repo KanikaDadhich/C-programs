@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/KanikaDadhich/C-programs/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
@@ -158,5 +159,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/KanikaDadhich/C-programs/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
