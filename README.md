@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KanikaDadhich/C-programs/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/KanikaDadhich/C-programs/tree/master/0389-find-the-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KanikaDadhich/C-programs/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/KanikaDadhich/C-programs/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/KanikaDadhich/C-programs/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/KanikaDadhich/C-programs/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/KanikaDadhich/C-programs/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
@@ -160,6 +162,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/KanikaDadhich/C-programs/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 ## Bit Manipulation
 |  |
@@ -167,4 +170,5 @@
 | [0190-reverse-bits](https://github.com/KanikaDadhich/C-programs/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/KanikaDadhich/C-programs/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/KanikaDadhich/C-programs/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
