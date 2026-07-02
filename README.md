@@ -19,6 +19,7 @@
 | [0506-relative-ranks](https://github.com/KanikaDadhich/C-programs/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KanikaDadhich/C-programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KanikaDadhich/C-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -52,6 +53,7 @@
 | [0455-assign-cookies](https://github.com/KanikaDadhich/C-programs/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/KanikaDadhich/C-programs/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KanikaDadhich/C-programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KanikaDadhich/C-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KanikaDadhich/C-programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -171,4 +174,5 @@
 | [0268-missing-number](https://github.com/KanikaDadhich/C-programs/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/KanikaDadhich/C-programs/tree/master/0389-find-the-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KanikaDadhich/C-programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
