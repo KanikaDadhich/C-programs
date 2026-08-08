@@ -130,6 +130,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KanikaDadhich/C-programs/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/KanikaDadhich/C-programs/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 ## Design
@@ -169,6 +170,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KanikaDadhich/C-programs/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/KanikaDadhich/C-programs/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 ## Bit Manipulation
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KanikaDadhich/C-programs/tree/master/0021-merge-two-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KanikaDadhich/C-programs/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
