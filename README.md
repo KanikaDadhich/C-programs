@@ -20,6 +20,7 @@
 | [0506-relative-ranks](https://github.com/KanikaDadhich/C-programs/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/KanikaDadhich/C-programs/tree/master/0682-baseball-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KanikaDadhich/C-programs/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/KanikaDadhich/C-programs/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/KanikaDadhich/C-programs/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
@@ -196,4 +197,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KanikaDadhich/C-programs/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/KanikaDadhich/C-programs/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/KanikaDadhich/C-programs/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
