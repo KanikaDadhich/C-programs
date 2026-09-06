@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KanikaDadhich/C-programs/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KanikaDadhich/C-programs/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/KanikaDadhich/C-programs/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KanikaDadhich/C-programs/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KanikaDadhich/C-programs/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/KanikaDadhich/C-programs/tree/master/0649-dota2-senate) |
 | [1833-maximum-ice-cream-bars](https://github.com/KanikaDadhich/C-programs/tree/master/1833-maximum-ice-cream-bars) |
@@ -119,6 +121,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KanikaDadhich/C-programs/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KanikaDadhich/C-programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KanikaDadhich/C-programs/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KanikaDadhich/C-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
