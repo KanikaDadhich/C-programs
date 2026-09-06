@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KanikaDadhich/C-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KanikaDadhich/C-programs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KanikaDadhich/C-programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/KanikaDadhich/C-programs/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KanikaDadhich/C-programs/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KanikaDadhich/C-programs/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/KanikaDadhich/C-programs/tree/master/0347-top-k-frequent-elements) |
@@ -208,4 +209,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/KanikaDadhich/C-programs/tree/master/0994-rotting-oranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KanikaDadhich/C-programs/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
